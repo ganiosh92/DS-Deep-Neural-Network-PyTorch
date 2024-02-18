@@ -1,2 +1,2 @@
-# DS-Deep-Neural-Network-PyTorch
+# DS-deep-neural-network-pytorch
 Create a Deep Neural Net using PyTorch
